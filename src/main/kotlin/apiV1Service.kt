@@ -1,0 +1,2 @@
+interface apiV1Service {
+}
